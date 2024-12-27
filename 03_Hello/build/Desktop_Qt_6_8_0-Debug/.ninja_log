@@ -1,0 +1,24 @@
+# ninja log v6
+3	101	1735311506963860025	03_Hello_autogen/timestamp	3afe095f992ec9b4
+3	101	1735311506963860025	03_Hello_autogen/mocs_compilation.cpp	3afe095f992ec9b4
+3	101	1735311506963860025	/home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello_autogen/timestamp	3afe095f992ec9b4
+3	101	1735311506963860025	/home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello_autogen/mocs_compilation.cpp	3afe095f992ec9b4
+102	176	1735311506980859871	CMakeFiles/03_Hello.dir/03_Hello_autogen/mocs_compilation.cpp.o	2b472c378b0da869
+103	10316	1735311506981859862	CMakeFiles/03_Hello.dir/main.cpp.o	b33e675cbf0b70d1
+10318	11487	1735311517196767405	03_Hello	d6cdfad4cc8862a6
+16	69	1735311916929235732	03_Hello_autogen/timestamp	3afe095f992ec9b4
+16	69	1735311916929235732	03_Hello_autogen/mocs_compilation.cpp	3afe095f992ec9b4
+16	69	1735311916929235732	/home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello_autogen/timestamp	3afe095f992ec9b4
+16	69	1735311916929235732	/home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello_autogen/mocs_compilation.cpp	3afe095f992ec9b4
+8	45	1735311942241016378	03_Hello_autogen/timestamp	3afe095f992ec9b4
+8	45	1735311942241016378	03_Hello_autogen/mocs_compilation.cpp	3afe095f992ec9b4
+8	45	1735311942241016378	/home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello_autogen/timestamp	3afe095f992ec9b4
+8	45	1735311942241016378	/home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello_autogen/mocs_compilation.cpp	3afe095f992ec9b4
+46	6627	1735311942279016049	CMakeFiles/03_Hello.dir/main.cpp.o	b33e675cbf0b70d1
+6628	7324	1735311948860959071	03_Hello	d6cdfad4cc8862a6
+8	39	1735312204800760000	03_Hello_autogen/timestamp	3afe095f992ec9b4
+8	39	1735312204800760000	03_Hello_autogen/mocs_compilation.cpp	3afe095f992ec9b4
+8	39	1735312204800760000	/home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello_autogen/timestamp	3afe095f992ec9b4
+8	39	1735312204800760000	/home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello_autogen/mocs_compilation.cpp	3afe095f992ec9b4
+39	6700	1735312204831759736	CMakeFiles/03_Hello.dir/main.cpp.o	b33e675cbf0b70d1
+6700	7409	1735312211492702865	03_Hello	d6cdfad4cc8862a6

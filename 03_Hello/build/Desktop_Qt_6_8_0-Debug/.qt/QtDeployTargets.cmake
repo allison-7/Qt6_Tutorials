@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_03_Hello_FILE /home/allison/Documents/Qt6_Tutorials/03_Hello/build/Desktop_Qt_6_8_0-Debug/03_Hello)
+set(__QT_DEPLOY_TARGET_03_Hello_TYPE EXECUTABLE)
