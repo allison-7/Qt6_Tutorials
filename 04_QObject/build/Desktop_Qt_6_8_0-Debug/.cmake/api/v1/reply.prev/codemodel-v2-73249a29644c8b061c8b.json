@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e590e88de6e1ddd65e52.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "04_QObject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "04_QObject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_QObject-Debug-4ebfe7258f51d0b18eca.json",
+					"name" : "04_QObject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_QObject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_QObject_autogen-Debug-b902137deb4e78b7542e.json",
+					"name" : "04_QObject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_QObject_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_QObject_autogen_timestamp_deps-Debug-29a45fcd9d555f3d8539.json",
+					"name" : "04_QObject_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Documents/Qt6_Tutorials/04_QObject/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Documents/Qt6_Tutorials/04_QObject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

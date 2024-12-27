@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_04_QObject_FILE /home/allison/Documents/Qt6_Tutorials/04_QObject/build/Desktop_Qt_6_8_0-Debug/04_QObject)
+set(__QT_DEPLOY_TARGET_04_QObject_TYPE EXECUTABLE)
