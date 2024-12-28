@@ -1,0 +1,13 @@
+# ninja log v6
+4	993	1735393778085303570	05_QObjects_Copy_autogen/timestamp	f2e0fcfd7a1b814c
+4	993	1735393778085303570	05_QObjects_Copy_autogen/mocs_compilation.cpp	f2e0fcfd7a1b814c
+4	993	1735393778085303570	/home/allison/Documents/Qt6_Tutorials/05_QObjects_Copy/build/Desktop_Qt_6_8_0-Debug/05_QObjects_Copy_autogen/timestamp	f2e0fcfd7a1b814c
+4	993	1735393778085303570	/home/allison/Documents/Qt6_Tutorials/05_QObjects_Copy/build/Desktop_Qt_6_8_0-Debug/05_QObjects_Copy_autogen/mocs_compilation.cpp	f2e0fcfd7a1b814c
+996	7075	1735393778100303476	CMakeFiles/05_QObjects_Copy.dir/05_QObjects_Copy_autogen/mocs_compilation.cpp.o	3bc313fcfffa9229
+999	7157	1735393778103303457	CMakeFiles/05_QObjects_Copy.dir/cat.cpp.o	650b7b7e0094505d
+7	48	1735393805617131071	05_QObjects_Copy_autogen/timestamp	f2e0fcfd7a1b814c
+7	48	1735393805617131071	05_QObjects_Copy_autogen/mocs_compilation.cpp	f2e0fcfd7a1b814c
+7	48	1735393805617131071	/home/allison/Documents/Qt6_Tutorials/05_QObjects_Copy/build/Desktop_Qt_6_8_0-Debug/05_QObjects_Copy_autogen/timestamp	f2e0fcfd7a1b814c
+7	48	1735393805617131071	/home/allison/Documents/Qt6_Tutorials/05_QObjects_Copy/build/Desktop_Qt_6_8_0-Debug/05_QObjects_Copy_autogen/mocs_compilation.cpp	f2e0fcfd7a1b814c
+48	6534	1735393805658130813	CMakeFiles/05_QObjects_Copy.dir/main.cpp.o	b5210cfd424f199e
+6534	7254	1735393812144090040	05_QObjects_Copy	c4c6f92839a7071c

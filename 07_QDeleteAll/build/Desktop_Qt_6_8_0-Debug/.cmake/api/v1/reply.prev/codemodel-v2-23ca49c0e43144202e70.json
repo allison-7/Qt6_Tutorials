@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a575f488636ab1320436.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07_QDeleteAll",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07_QDeleteAll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_QDeleteAll-Debug-a92876a184cc3d76d9b4.json",
+					"name" : "07_QDeleteAll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_QDeleteAll_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_QDeleteAll_autogen-Debug-e4df30cfff58f0f2bbb9.json",
+					"name" : "07_QDeleteAll_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_QDeleteAll_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_QDeleteAll_autogen_timestamp_deps-Debug-a9b4efcfdd4f59d6bdd9.json",
+					"name" : "07_QDeleteAll_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Documents/Qt6_Tutorials/07_QDeleteAll/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Documents/Qt6_Tutorials/07_QDeleteAll"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

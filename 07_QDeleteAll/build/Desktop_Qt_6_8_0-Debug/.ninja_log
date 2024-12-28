@@ -1,0 +1,19 @@
+# ninja log v6
+2	2009	1735397251351344564	07_QDeleteAll_autogen/timestamp	f608e0bf4497ebb3
+2	2009	1735397251351344564	07_QDeleteAll_autogen/mocs_compilation.cpp	f608e0bf4497ebb3
+2	2009	1735397251351344564	/home/allison/Documents/Qt6_Tutorials/07_QDeleteAll/build/Desktop_Qt_6_8_0-Debug/07_QDeleteAll_autogen/timestamp	f608e0bf4497ebb3
+2	2009	1735397251351344564	/home/allison/Documents/Qt6_Tutorials/07_QDeleteAll/build/Desktop_Qt_6_8_0-Debug/07_QDeleteAll_autogen/mocs_compilation.cpp	f608e0bf4497ebb3
+2023	16092	1735397251392343761	CMakeFiles/07_QDeleteAll.dir/test.cpp.o	6e75621e68afaa14
+2016	17123	1735397251385343898	CMakeFiles/07_QDeleteAll.dir/07_QDeleteAll_autogen/mocs_compilation.cpp.o	76b8a937704f3e5f
+7	47	1735397310183218745	07_QDeleteAll_autogen/timestamp	f608e0bf4497ebb3
+7	47	1735397310183218745	07_QDeleteAll_autogen/mocs_compilation.cpp	f608e0bf4497ebb3
+7	47	1735397310183218745	/home/allison/Documents/Qt6_Tutorials/07_QDeleteAll/build/Desktop_Qt_6_8_0-Debug/07_QDeleteAll_autogen/timestamp	f608e0bf4497ebb3
+7	47	1735397310183218745	/home/allison/Documents/Qt6_Tutorials/07_QDeleteAll/build/Desktop_Qt_6_8_0-Debug/07_QDeleteAll_autogen/mocs_compilation.cpp	f608e0bf4497ebb3
+48	6768	1735397310224217979	CMakeFiles/07_QDeleteAll.dir/main.cpp.o	9e66dc784c7a5ef1
+6768	7495	1735397316944092634	07_QDeleteAll	a789c5087330cf43
+7	51	1735397875436272720	07_QDeleteAll_autogen/timestamp	f608e0bf4497ebb3
+7	51	1735397875436272720	07_QDeleteAll_autogen/mocs_compilation.cpp	f608e0bf4497ebb3
+7	51	1735397875436272720	/home/allison/Documents/Qt6_Tutorials/07_QDeleteAll/build/Desktop_Qt_6_8_0-Debug/07_QDeleteAll_autogen/timestamp	f608e0bf4497ebb3
+7	51	1735397875436272720	/home/allison/Documents/Qt6_Tutorials/07_QDeleteAll/build/Desktop_Qt_6_8_0-Debug/07_QDeleteAll_autogen/mocs_compilation.cpp	f608e0bf4497ebb3
+51	12768	1735397875480272112	CMakeFiles/07_QDeleteAll.dir/main.cpp.o	9e66dc784c7a5ef1
+12768	14077	1735397888200096560	07_QDeleteAll	a789c5087330cf43

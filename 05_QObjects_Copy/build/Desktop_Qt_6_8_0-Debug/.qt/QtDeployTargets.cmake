@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_05_QObjects_Copy_FILE /home/allison/Documents/Qt6_Tutorials/05_QObjects_Copy/build/Desktop_Qt_6_8_0-Debug/05_QObjects_Copy)
+set(__QT_DEPLOY_TARGET_05_QObjects_Copy_TYPE EXECUTABLE)

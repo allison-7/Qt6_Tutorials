@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_06_Parent_Child_FILE /home/allison/Documents/Qt6_Tutorials/06_Parent_Child/build/Desktop_Qt_6_8_0-Debug/06_Parent_Child)
+set(__QT_DEPLOY_TARGET_06_Parent_Child_TYPE EXECUTABLE)
