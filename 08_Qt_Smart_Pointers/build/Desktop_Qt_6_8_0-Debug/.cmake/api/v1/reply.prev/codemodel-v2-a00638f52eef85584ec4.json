@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7a58e4ecbd5880cf1b5e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "08_Qt_Smart_Pointers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "08_Qt_Smart_Pointers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_Qt_Smart_Pointers-Debug-0a1586ed88011338f6c1.json",
+					"name" : "08_Qt_Smart_Pointers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08_Qt_Smart_Pointers_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_Qt_Smart_Pointers_autogen-Debug-884becf38d353b086d24.json",
+					"name" : "08_Qt_Smart_Pointers_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08_Qt_Smart_Pointers_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_Qt_Smart_Pointers_autogen_timestamp_deps-Debug-0afe8cd4cb60029dc5c2.json",
+					"name" : "08_Qt_Smart_Pointers_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Documents/Qt6_Tutorials/08_Qt_Smart_Pointers/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Documents/Qt6_Tutorials/08_Qt_Smart_Pointers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

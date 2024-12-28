@@ -1,0 +1,15 @@
+# ninja log v6
+4	2844	1735419113028340778	08_Qt_Smart_Pointers_autogen/timestamp	307e2730163177e7
+4	2844	1735419113028340778	08_Qt_Smart_Pointers_autogen/mocs_compilation.cpp	307e2730163177e7
+4	2844	1735419113028340778	/home/allison/Documents/Qt6_Tutorials/08_Qt_Smart_Pointers/build/Desktop_Qt_6_8_0-Debug/08_Qt_Smart_Pointers_autogen/timestamp	307e2730163177e7
+4	2844	1735419113028340778	/home/allison/Documents/Qt6_Tutorials/08_Qt_Smart_Pointers/build/Desktop_Qt_6_8_0-Debug/08_Qt_Smart_Pointers_autogen/mocs_compilation.cpp	307e2730163177e7
+2853	10268	1735419113071340335	CMakeFiles/08_Qt_Smart_Pointers.dir/test.cpp.o	710d3045fd868475
+2847	10390	1735419113065340397	CMakeFiles/08_Qt_Smart_Pointers.dir/08_Qt_Smart_Pointers_autogen/mocs_compilation.cpp.o	de7c086e17924d78
+2849	10823	1735419113067340376	CMakeFiles/08_Qt_Smart_Pointers.dir/main.cpp.o	663c2f5207f4f537
+10824	11521	1735419121042258204	08_Qt_Smart_Pointers	1c002220d0928a90
+8	72	1735419628136545383	08_Qt_Smart_Pointers_autogen/timestamp	307e2730163177e7
+8	72	1735419628136545383	08_Qt_Smart_Pointers_autogen/mocs_compilation.cpp	307e2730163177e7
+8	72	1735419628136545383	/home/allison/Documents/Qt6_Tutorials/08_Qt_Smart_Pointers/build/Desktop_Qt_6_8_0-Debug/08_Qt_Smart_Pointers_autogen/timestamp	307e2730163177e7
+8	72	1735419628136545383	/home/allison/Documents/Qt6_Tutorials/08_Qt_Smart_Pointers/build/Desktop_Qt_6_8_0-Debug/08_Qt_Smart_Pointers_autogen/mocs_compilation.cpp	307e2730163177e7
+73	10601	1735419628201544413	CMakeFiles/08_Qt_Smart_Pointers.dir/main.cpp.o	663c2f5207f4f537
+10601	11734	1735419638729387687	08_Qt_Smart_Pointers	1c002220d0928a90
