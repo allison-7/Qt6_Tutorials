@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_09_QString_FILE /home/allison/Documents/Qt6_Tutorials/09_QString/build/Desktop_Qt_6_8_0-Debug/09_QString)
+set(__QT_DEPLOY_TARGET_09_QString_TYPE EXECUTABLE)
