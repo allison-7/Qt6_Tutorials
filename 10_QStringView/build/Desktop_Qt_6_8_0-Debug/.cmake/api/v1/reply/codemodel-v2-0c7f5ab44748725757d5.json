@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ca6abf012b7e6c5890c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "10_QStringView",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "10_QStringView::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10_QStringView-Debug-6aecbfce0f2399325c71.json",
+					"name" : "10_QStringView",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10_QStringView_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10_QStringView_autogen-Debug-611373c04b04c014f660.json",
+					"name" : "10_QStringView_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "10_QStringView_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10_QStringView_autogen_timestamp_deps-Debug-813dc8cbd2d673e98da0.json",
+					"name" : "10_QStringView_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Documents/Qt6_Tutorials/10_QStringView"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

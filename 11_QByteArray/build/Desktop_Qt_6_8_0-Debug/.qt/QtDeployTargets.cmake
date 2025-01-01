@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_11_QByteArray_FILE /home/allison/Documents/Qt6_Tutorials/11_QByteArray/build/Desktop_Qt_6_8_0-Debug/11_QByteArray)
+set(__QT_DEPLOY_TARGET_11_QByteArray_TYPE EXECUTABLE)

@@ -1,0 +1,22 @@
+# ninja log v6
+4	126	1735743506424892381	10_QStringView_autogen/timestamp	821729efdaafa110
+4	126	1735743506424892381	10_QStringView_autogen/mocs_compilation.cpp	821729efdaafa110
+4	126	1735743506424892381	/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug/10_QStringView_autogen/timestamp	821729efdaafa110
+4	126	1735743506424892381	/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug/10_QStringView_autogen/mocs_compilation.cpp	821729efdaafa110
+127	184	1735743506444892099	CMakeFiles/10_QStringView.dir/10_QStringView_autogen/mocs_compilation.cpp.o	3a558d2e7ca13555
+132	10456	1735743506448892043	CMakeFiles/10_QStringView.dir/main.cpp.o	73984848802b8d5d
+10458	11499	1735743516774748232	10_QStringView	b46d47c54f511674
+8	41	1735743928327615842	10_QStringView_autogen/timestamp	821729efdaafa110
+8	41	1735743928327615842	10_QStringView_autogen/mocs_compilation.cpp	821729efdaafa110
+8	41	1735743928327615842	/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug/10_QStringView_autogen/timestamp	821729efdaafa110
+8	41	1735743928327615842	/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug/10_QStringView_autogen/mocs_compilation.cpp	821729efdaafa110
+6	32	1735743962297352850	10_QStringView_autogen/timestamp	821729efdaafa110
+6	32	1735743962297352850	10_QStringView_autogen/mocs_compilation.cpp	821729efdaafa110
+6	32	1735743962297352850	/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug/10_QStringView_autogen/timestamp	821729efdaafa110
+6	32	1735743962297352850	/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug/10_QStringView_autogen/mocs_compilation.cpp	821729efdaafa110
+11	57	1735744022165903196	10_QStringView_autogen/timestamp	821729efdaafa110
+11	57	1735744022165903196	10_QStringView_autogen/mocs_compilation.cpp	821729efdaafa110
+11	57	1735744022165903196	/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug/10_QStringView_autogen/timestamp	821729efdaafa110
+11	57	1735744022165903196	/home/allison/Documents/Qt6_Tutorials/10_QStringView/build/Desktop_Qt_6_8_0-Debug/10_QStringView_autogen/mocs_compilation.cpp	821729efdaafa110
+58	6838	1735744022212902849	CMakeFiles/10_QStringView.dir/main.cpp.o	73984848802b8d5d
+6839	7530	1735744028993852894	10_QStringView	b46d47c54f511674
