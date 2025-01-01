@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-db29f156759be0652326.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12_QList",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "12_QList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_QList-Debug-0c33870af0d6225a9d5f.json",
+					"name" : "12_QList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_QList_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_QList_autogen-Debug-42e8f04161da395af806.json",
+					"name" : "12_QList_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_QList_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_QList_autogen_timestamp_deps-Debug-ebdf2518e40ebd32f4a7.json",
+					"name" : "12_QList_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Documents/Qt6_Tutorials/12_QList/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Documents/Qt6_Tutorials/12_QList"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

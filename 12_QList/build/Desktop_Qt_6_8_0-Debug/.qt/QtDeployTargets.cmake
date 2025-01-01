@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_12_QList_FILE /home/allison/Documents/Qt6_Tutorials/12_QList/build/Desktop_Qt_6_8_0-Debug/12_QList)
+set(__QT_DEPLOY_TARGET_12_QList_TYPE EXECUTABLE)
