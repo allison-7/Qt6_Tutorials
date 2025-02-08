@@ -1,0 +1,26 @@
+# ninja log v6
+3	82	1739028151049822787	14_QtStyle_autogen/timestamp	a9e28dddeb3dbd79
+3	82	1739028151049822787	14_QtStyle_autogen/mocs_compilation.cpp	a9e28dddeb3dbd79
+3	82	1739028151049822787	/home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle_autogen/timestamp	a9e28dddeb3dbd79
+3	82	1739028151049822787	/home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle_autogen/mocs_compilation.cpp	a9e28dddeb3dbd79
+83	146	1739028151064822643	CMakeFiles/14_QtStyle.dir/14_QtStyle_autogen/mocs_compilation.cpp.o	40d76878bdfcdcc5
+83	10246	1739028151064822643	CMakeFiles/14_QtStyle.dir/main.cpp.o	acb71fb928d57e0e
+10257	11779	1739028161243724630	14_QtStyle	6fab276cceb50149
+11	62	1739028263675737902	14_QtStyle_autogen/timestamp	a9e28dddeb3dbd79
+11	62	1739028263675737902	14_QtStyle_autogen/mocs_compilation.cpp	a9e28dddeb3dbd79
+11	62	1739028263675737902	/home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle_autogen/timestamp	a9e28dddeb3dbd79
+11	62	1739028263675737902	/home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle_autogen/mocs_compilation.cpp	a9e28dddeb3dbd79
+63	10444	1739028263727737401	CMakeFiles/14_QtStyle.dir/main.cpp.o	acb71fb928d57e0e
+10444	11837	1739028274108637364	14_QtStyle	6fab276cceb50149
+9	69	1739028454820894974	14_QtStyle_autogen/timestamp	a9e28dddeb3dbd79
+9	69	1739028454820894974	14_QtStyle_autogen/mocs_compilation.cpp	a9e28dddeb3dbd79
+9	69	1739028454820894974	/home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle_autogen/timestamp	a9e28dddeb3dbd79
+9	69	1739028454820894974	/home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle_autogen/mocs_compilation.cpp	a9e28dddeb3dbd79
+70	10936	1739028454881894385	CMakeFiles/14_QtStyle.dir/main.cpp.o	acb71fb928d57e0e
+10937	12212	1739028465748789560	14_QtStyle	6fab276cceb50149
+9	52	1739028640671101603	14_QtStyle_autogen/timestamp	a9e28dddeb3dbd79
+9	52	1739028640671101603	14_QtStyle_autogen/mocs_compilation.cpp	a9e28dddeb3dbd79
+9	52	1739028640671101603	/home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle_autogen/timestamp	a9e28dddeb3dbd79
+9	52	1739028640671101603	/home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle_autogen/mocs_compilation.cpp	a9e28dddeb3dbd79
+54	11304	1739028640716101168	CMakeFiles/14_QtStyle.dir/main.cpp.o	acb71fb928d57e0e
+11304	12472	1739028651966946219	14_QtStyle	6fab276cceb50149

@@ -1,0 +1,16 @@
+# ninja log v6
+4	35	1739029946976980696	16_QDebug_autogen/timestamp	abfa8c27b57eaf2a
+4	35	1739029946976980696	16_QDebug_autogen/mocs_compilation.cpp	abfa8c27b57eaf2a
+35	6658	1739029947007980332	CMakeFiles/16_QDebug.dir/main.cpp.o	335a842d40d9a998
+4	35	1739029946976980696	/home/allison/Documents/Qt6_Tutorials/16_QDebug/build/Desktop_Qt_6_8_0-Debug/16_QDebug_autogen/timestamp	abfa8c27b57eaf2a
+4	35	1739029946976980696	/home/allison/Documents/Qt6_Tutorials/16_QDebug/build/Desktop_Qt_6_8_0-Debug/16_QDebug_autogen/mocs_compilation.cpp	abfa8c27b57eaf2a
+100	174	1739029905036472952	CMakeFiles/16_QDebug.dir/16_QDebug_autogen/mocs_compilation.cpp.o	5ee1d56c5c2b0dfc
+6659	7388	1739029953631902783	16_QDebug	837fca1cc3be0a0
+30	2609	1739044829454221919	16_QDebug_autogen/timestamp	abfa8c27b57eaf2a
+30	2609	1739044829454221919	16_QDebug_autogen/mocs_compilation.cpp	abfa8c27b57eaf2a
+30	2609	1739044829454221919	/home/allison/Documents/Qt6_Tutorials/16_QDebug/build/Desktop_Qt_6_8_0-Debug/16_QDebug_autogen/timestamp	abfa8c27b57eaf2a
+30	2609	1739044829454221919	/home/allison/Documents/Qt6_Tutorials/16_QDebug/build/Desktop_Qt_6_8_0-Debug/16_QDebug_autogen/mocs_compilation.cpp	abfa8c27b57eaf2a
+2618	15595	1739044829487221595	CMakeFiles/16_QDebug.dir/kitten.cpp.o	86d844c585a0a1b2
+2609	16398	1739044829478221684	CMakeFiles/16_QDebug.dir/16_QDebug_autogen/mocs_compilation.cpp.o	5ee1d56c5c2b0dfc
+2617	17918	1739044829486221605	CMakeFiles/16_QDebug.dir/main.cpp.o	335a842d40d9a998
+17918	19284	1739044844787071375	16_QDebug	e0c3ae830986b698

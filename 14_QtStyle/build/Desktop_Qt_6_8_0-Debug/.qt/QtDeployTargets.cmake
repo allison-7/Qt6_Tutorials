@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_14_QtStyle_FILE /home/allison/Documents/Qt6_Tutorials/14_QtStyle/build/Desktop_Qt_6_8_0-Debug/14_QtStyle)
+set(__QT_DEPLOY_TARGET_14_QtStyle_TYPE EXECUTABLE)
